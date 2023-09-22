@@ -1,0 +1,84 @@
+.body {
+    display: flex;
+    justify-content: flex-start;
+    background-color: whitesmoke;
+    max-width: 70%;
+    margin: 0 auto;
+
+
+}
+
+.info {
+    color: white;
+    background-color:rgb(82, 82, 244);
+    font-size: 15px;
+    position: relative;
+    border-radius: 4px;
+    
+
+
+
+
+}
+
+.foto {
+    position: relative;
+    align-items: center;
+    left: 5px;
+    top: 5px;
+    border-radius: 10px;
+}
+
+
+.exp {
+    color: black;
+    flex-direction: column;  
+    border-radius: 5px;  
+    
+   
+
+}
+
+.exp h1,
+h2 {
+    color: white;
+    background-color: #5252f4;
+    border-radius: 5px;
+}
+
+
+.nombre {
+    color: white;
+    font-size: 70px;
+    font-weight: 30px;
+    margin: 0;
+    border-radius: 5px;
+
+
+}
+
+
+.exp p {
+    color: black;
+    font-size: 30px;
+    margin-bottom: 1px;
+}
+
+.cont {
+
+    background-color: white;
+}
+
+i {
+    margin-left: 5px;
+    
+}
+
+li {
+     font-family:  'Arial Narrow Bold', sans-serif;
+}
+
+.burb {
+    margin-left: 15px;
+    border-radius: 50%;
+}
